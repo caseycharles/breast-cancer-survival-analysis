@@ -1,30 +1,48 @@
-# breast-cancer-survival-analysis
-exploring gender disparities in 5-year breast cancer survival using NHS data. First portfolio project using Excel
+# 🩺 Breast Cancer Survival by Gender (NHS England Data)
 
+## 📊 Project Overview  
+This project explores gender disparities in **5-year net survival** for breast cancer using NHS England statistics (2016–2020). The goal was to build foundational skills in health data science by focusing on data cleaning, visualization, and interpretation.
 
-🩺Health Disparities in Cancer Survival
-5-year net survival for Breast Cancer by gender
+---
 
+## 💬 Key Insight  
+- **Female 5-year net survival:** 85.9%  
+- **Male 5-year net survival:** 83.8%
 
-🔍OBJECTIVE: to explore whether survival outcomes for breast cancer differ by gender using publicly available cancer survival data from NHS England (2016-2020).
+While the difference is small, it may reflect:  
+- Later diagnosis in males  
+- Lower awareness  
+- Smaller sample size  
 
-The goal was to build foundational health data science skills focusing on data cleaning, simple visualisation and interpretation.
+This highlights the importance of awareness campaigns targeted at men and tailored screening strategies.
 
-📊CHART:
-![Breast cancer survival chart](breast_cancer_chart.png)
-🧾INSIGHT: Males with breast cancer have a 5-year net survival of 83.8%, compared to 85.9% in females. 
+---
 
-While the difference is small it may reflect later diagnosis in males due to low awareness, smaller sample size (fewer male cases) and potential biological variation.
+## 📈 Survival Chart  
+![Breast cancer survival chart](breast_cancer_chart.png)  
+*Figure 1: 5-Year Net Survival for Breast Cancer by Gender*
 
-This highlights the importance of awareness campaigns targeted towards men and the need for tailored screening and diagnostic support.
+---
 
-📁DATA SOURCE: National Cancer Survival Statistics, NHS England [https://digital.nhs.uk/data-and-information/publications/statistical/cancer-survival-in-england/cancers-diagnosed-2016-to-2020-followed-up-to-2021#chapter-index] 
-Years analysed: 2016-2020
-Focused metric: 5-year net survival, age standardised 
+## 📁 Files Included  
+- `breast_cancer_chart.png`: Chart image  
+- `breast_cancer_survival_data.xlsx`: Cleaned dataset and Excel chart  
+- `BreastCancer_Survival_Portfolio.pdf`: Full project write-up  
 
-🚀SKILLS USED:
-•	Data filtering & cleaning (Excel)
-•	Descriptive analysis
-•	Basic charting
-•	Interpretation of health outcomes
+---
+
+## 📂 Data Source  
+- National Cancer Survival Statistics, NHS England  
+- Years analysed: 2016–2020  
+- Focused metric: 5-year net survival, age-standardised  
+- [NHS Cancer Data Website](https://www.cancerdata.nhs.uk/)
+
+---
+
+## 🚀 Skills Used  
+- Data filtering & cleaning (Excel)  
+- Descriptive analysis  
+- Basic charting (Clustered Bar Chart)  
+- Interpretation of health outcomes  
+- Storytelling with data
 •	Storytelling with data
