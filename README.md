@@ -8,8 +8,8 @@ exploring gender disparities in 5-year breast cancer survival using NHS data. Fi
 
 The goal was to build foundational health data science skills focusing on data cleaning, simple visualisation and interpretation.
 
-📊CHART: [breast_cancer_chart.png]
-
+📊CHART:
+![Breast cancer survival chart](breast_cancer_chart.png)
 🧾INSIGHT: Males with breast cancer have a 5-year net survival of 83.8%, compared to 85.9% in females. 
 
 While the difference is small it may reflect later diagnosis in males due to low awareness, smaller sample size (fewer male cases) and potential biological variation.
