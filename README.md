@@ -46,3 +46,8 @@ This highlights the importance of awareness campaigns targeted at men and tailor
 - Interpretation of health outcomes  
 - Storytelling with data
 •	Storytelling with data
+
+## 📎 Author
+
+**Casey Charles**  
+Aspiring health data analyst | Biomedical Science BSc  
